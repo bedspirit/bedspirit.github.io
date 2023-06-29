@@ -2,23 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Journey through the Computer Science program
 
-[Link to another page](./another-page.html).
+# Code Reviews
 
-There should be whitespace between paragraphs.
+code review submitted in the form of a video presentation or screencast walkthrough
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Software Design and Engineering
 
-# Header 1
+>Consider improving a piece of software, transferring a project into a different language, reverse engineering a piece of software for a different operating system, or expanding a project’s complexity.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Algorithm and Data Structures
 
-## Header 2
+>Consider improving the efficiency of a project or expanding the complexity of the use of data structures and algorithms for your artifact.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Database
+
+>Consider adding more advanced concepts of MySQL, incorporating data mining, creating a MongoDB interface with HTML/JavaScript, or building a full stack with a different programming language for your artifact.
 
 ### Header 3
 
