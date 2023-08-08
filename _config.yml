@@ -22,7 +22,7 @@ email: joseph.mead@snhu.edu
 # > twitter_username:
 github_username: bedspirit
 codepen_username: bedspirit
-dev_username: Nada
+dev_username: bedspirit
 linkedin_username: Not Yet
 twitter_username: yeah right
 
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Just graduated
+about_me_description: I specialize in Machine Learning, AI, and Advanced Mathematics. My work involves data collection through API calls and Database Queries. I have a robust background in Mathematics and enjoy creating elaborate algorithms.
 
 # SKILLS SECTION
 # show_skills_card:
