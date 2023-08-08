@@ -13,8 +13,8 @@
     "shape": {
       "type": "polygon",
       "stroke": {
-        "width": 1,
-        "color": "#000000"
+        "width": 2,
+        "color": "#003c12"
       },
       "polygon": {
         "nb_sides": 6
