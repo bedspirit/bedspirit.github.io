@@ -8,7 +8,7 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": ["#8db600"]
     },
     "shape": {
       "type": "polygon",
@@ -17,7 +17,7 @@
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 4
+        "nb_sides": 6
       }
     },
     "opacity": {
