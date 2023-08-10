@@ -24,7 +24,7 @@
     
 - name: Software Design and Engineering
   descr: "Taking the Gubr from command line to Windows Forms"
-  demo: https://example.com/
+  demo: https://github.com/bedspirit/Gubr_Project1
   tags:
     - tag: C++
     - tag: CLI/C++
@@ -33,7 +33,7 @@
 
 - name: Algorithm and Data Structures
   descr: "Giving the Gubr2 a performance upgrade through superior data structure"
-  demo: https://example.com/
+  demo: https://github.com/bedspirit/Gubr_Project2
   tags:
     - tag: C++
     - tag: CLI/C++
@@ -42,7 +42,7 @@
 
 - name: Database
   descr: "Gubr2 loading data directly from database"
-  demo: https://example.com/
+  demo: https://github.com/bedspirit/Gubr_Project3
   tags:
     - tag: C++
     - tag: CLI/C++
