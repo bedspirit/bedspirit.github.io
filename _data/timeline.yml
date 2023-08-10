@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Southern New Hampshire University
+- title: SNHU
   title-url: https://www.snhu.edu
   date: Sep 2019 - Present
   subtitle: BS Computer Science Concentration Data Analysis
@@ -29,7 +29,7 @@
     - tag: Modeling
   timeline-side: right
 
-- title: Western Washington Unvervisity
+- title: WWU
   title-url: https://www.wwu.edu
   date: Mar 2000 - Sep 2002
   subtitle: Mathematics Major
@@ -38,14 +38,14 @@
     - tag: Linear Algebra
   timeline-side: left
 
-- title: Illinois Valley Community College
-  title-url: https://example.com/
+- title: IVCC
+  title-url: https://www.ivcc.edu
   date: 1997 - 2000
   subtitle: Associate in Science
   timeline-side: right
 
-- title: *******
-  title-url: ******
+- title: Business
+  title-url: https://example.com
   date: Sep 2015 - Present
   subtitle: Data Processing
   tags:
