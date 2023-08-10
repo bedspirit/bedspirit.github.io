@@ -37,6 +37,11 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: I specialize in Modeling, Data Analysis, and Machine Learning. My work involves data collection through API calls and Database Queries. I have a robust background in Advanced Mathematics and enjoy creating elaborate algorithms.
+show_aboutme_card2: true
+# about_me_title: The will be displayed as the title in the About Me section
+about_me_title2:  collaborating in a team environment
+# about_me_description: This will be displayed under the title.
+about_me_description2: experience etc...
 
 # SKILLS SECTION
 # show_skills_card:
