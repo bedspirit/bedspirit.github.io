@@ -13,6 +13,15 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Code Review
+  descr: "Video Code Review of Gubr1 and Gubr2"
+  demo: https://example.com/
+  tags:
+    - tag: C++
+    - tag: CLI/C++
+    - tag: .NET Framework
+    - tag: Windows Forms
+    
 - name: Software Design and Engineering
   descr: "Taking the Gubr from command line to Windows Forms"
   demo: https://example.com/
