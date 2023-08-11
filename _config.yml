@@ -36,7 +36,22 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I specialize in Modeling, Data Analysis, and Machine Learning. My work involves data collection through API calls and Database Queries. I have a robust background in Advanced Mathematics and enjoy creating elaborate algorithms.
+about_me_description: Throughout my academic journey, completing coursework and crafting my ePortfolio has been instrumental in refining my strengths and molding my professional aspirations. This self-assessment aims to delve into how these experiences have equipped me to thrive in the computer science field, focusing on key areas such as collaborating in a team environment, communicating effectively, mastering data structures and algorithms, excelling in software engineering and database management, and embracing security principles.
+
+Collaboration in a Team Environment
+In the process of completing various projects, both within my program and beyond, I have honed my ability to collaborate seamlessly within diverse teams. Through coursework that necessitated group efforts, I've learned to respect diverse perspectives, contribute my expertise, and embrace compromise to achieve collective success. One standout example is a collaborative coding project where my team integrated distinct modules, requiring us to communicate our progress and merge code seamlessly.
+
+Effective Communication to Stakeholders
+As coursework challenged me to articulate complex technical concepts clearly, I have sharpened my communication skills—essential in conveying ideas to both technical and non-technical stakeholders. A case in point is my involvement in a software development project, where I was responsible for delivering regular updates to project managers and clients. This experience elevated my ability to translate technical jargon into understandable insights for non-technical audiences.
+
+Data Structures and Algorithms Mastery
+My programs curriculum emphasized data structures and algorithms, equipping me with the fundamental skills to design efficient solutions to intricate problems. Through coursework assignments and personal coding projects, I've consistently tackled algorithmic challenges, such as optimizing sorting algorithms and devising intricate data structures. These experiences have undoubtedly fortified my problem-solving capabilities.
+
+Software Engineering and Database Expertise
+The programs focus on software engineering and database management provided me with a robust foundation for designing, developing, and maintaining scalable applications. From creating a functional web application to integrating a database schema, my coursework demanded meticulous attention to detail and adherence to industry best practices. These experiences have instilled a sense of craftsmanship in my approach to software development.
+
+Embracing Security Principles
+In an age of increasing cyber threats, my coursework prompted me to grasp the significance of security in software design. I've implemented encryption algorithms and learned to fortify applications against potential vulnerabilities. Beyond coursework, I've extended this knowledge by participating in cybersecurity competitions, enhancing my practical understanding of safeguarding sensitive information.I specialize in Modeling, Data Analysis, and Machine Learning. My work involves data collection through API calls and Database Queries. I have a robust background in Advanced Mathematics and enjoy creating elaborate algorithms.
 
 # SKILLS SECTION
 # show_skills_card:
