@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Throughout my academic journey, completing coursework and crafting my ePortfolio has been instrumental in refining my strengths and molding my professional aspirations. This self-assessment aims to delve into how these experiences have equipped me to thrive in the computer science field, focusing on key areas such as collaborating in a team environment, communicating effectively, mastering data structures and algorithms, excelling in software engineering and database management, and embracing security principles."
+about_me_description: "I am interested in Modeling, Data Analysis, and Machine Learning. My professional experience involves data collection through API calls and Database Queries."
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
