@@ -16,7 +16,8 @@ username: Joseph Mead
 # > set this to your job title, e.g. Fullstack Developer
 typing_text1: Data Analysis
 typing_text2: Machine Learning
-typing_text3: Coding
+typing_text3: Modeling
+typing_text4: Coding
 # email: Your E-Mail address for the email button.
 email: joseph.mead@snhu.edu
 # For every social button you want to display, set your username or userid
