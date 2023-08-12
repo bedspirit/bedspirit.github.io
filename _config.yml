@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "I am interested in Modeling, Data Analysis, and Machine Learning. My professional experience involves data collection through API calls and Database Queries."
+about_me_description: "I recently completed the Computer Science program at Southern New Hampshire University. When I entered the program, I was ony interested in coding.  The program exposed me to a large array of topics related to computer science and software development. I am interested in Modeling, Data Analysis, and Machine Learning. My professional experience involves data collection through API calls and Database Queries."
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
