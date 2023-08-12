@@ -36,12 +36,18 @@
   tags:
     - tag: Number Theory
     - tag: Linear Algebra
+    - tag: Abstract Algebra
   timeline-side: left
 
 - title: IVCC
   title-url: https://www.ivcc.edu
   date: 1997 - 2000
   subtitle: Associate in Science
+    tags:
+    - tag: Calculus
+    - tag: Differential Equations
+    - tag: Fortran
+    - tag: Mathematica/Wolfram
   timeline-side: right
 
 - title: Business
