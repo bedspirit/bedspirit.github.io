@@ -1,5 +1,0 @@
-Collaboration in a team environment
-Midway through the computer science program at SNHU, I was surprised to find that many of the courses did not focus on coding, but on the way that software development teams functioned.  These were not my favorite courses because I really wanted to code, but I did learn alot about the structure, process, and collaborative nature that teams employ.  I am confident that I can seamlessly collaborate with members of diverse teams.
-Effective Communication to Stakeholders
-Another focus of the courses that diverged from coding was on the ability to articulate complex technical concepts to non-technical audiences.  These courses combined with my own professional experience has informed me to be wary of getting too deep into the weeds in highly technical issues.  Doing so might cause confusion for the stakeholder which is counter productive.
-
