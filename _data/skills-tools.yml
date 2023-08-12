@@ -20,7 +20,7 @@
 - name: XCode
   weight: 4
 
-- name: Chrome DevTools
+- name: R Studio
   weight: 2
 
 - name: npm
