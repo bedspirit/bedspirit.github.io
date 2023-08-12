@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Code Review
-  descr: "Video Code Review of Gubr1 and Gubr2"
+  descr: "The story of the GUBR is the story of my journey through the Computer Science Program at SNHU.  I wrote the original for my job after taking my first C++ course.  It has gone through a few iterations over the years.  The latest development will blend parts of the oldest one with parts of the newest one.  This will maximize performance and interactivity.  This is a video code review of the GUBR1 and GUBR2."
   demo: https://www.youtube.com/watch?v=kOOVUbh1fXQ
   tags:
     - tag: C++
@@ -23,7 +23,7 @@
     - tag: Windows Forms
     
 - name: Software Design and Engineering
-  descr: "Taking the Gubr from command line to Windows Forms"
+  descr: "The Original GUBR was a command line program designed to filter data that represents inventory items.  This is a revision of that program that gives it a Window Forms GUI using CLI/C++ .NET Framework.  This transisitton isn't necessarily remarkable, but it fascilites the merger of the data structure from the oringinal GUBR with the GUBR2."
   demo: https://github.com/bedspirit/Gubr_Project1
   tags:
     - tag: C++
@@ -32,7 +32,7 @@
     - tag: Windows Forms
 
 - name: Algorithm and Data Structures
-  descr: "Giving the Gubr2 a performance upgrade through superior data structure"
+  descr: "This is the merger of the data structure that gave the GUBR superior performance with the user friendliness of the GUBR2.  The result is an 80% increase in performance.  This project displays the impact of a superior data structure."
   demo: https://github.com/bedspirit/Gubr_Project2
   tags:
     - tag: C++
@@ -41,7 +41,7 @@
     - tag: Windows Forms
 
 - name: Database
-  descr: "Gubr2 loading data directly from database"
+  descr: "This project represents a fresh step forward for the GUBR.  The GUBR and GUBR2 read files created by a mainframe.  This version of the GUBR is able to retrieve data from a database eliminating the need to run a mainframe job.  This project displays the convience of utilizing SQL queries for data collection."
   demo: https://github.com/bedspirit/Gubr_Project3
   tags:
     - tag: C++
