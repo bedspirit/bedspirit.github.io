@@ -9,10 +9,10 @@
   weight: 5
 
 - name: Bash
-  weight: 3
+  weight: 2
 
 - name: Scrum
-  weight: 3
+  weight: 2
 
 - name: Eclipse
   weight: 3
@@ -21,7 +21,7 @@
   weight: 4
 
 - name: R Studio
-  weight: 2
+  weight: 3
 
 - name: npm
   weight: 2
