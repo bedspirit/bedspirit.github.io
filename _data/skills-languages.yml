@@ -24,7 +24,7 @@
   weight: 4
 
 - name: Java
-  weight: 2
+  weight: 3
 
 - name: Wolfram
   weight: 3
