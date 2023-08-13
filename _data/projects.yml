@@ -23,7 +23,7 @@
     - tag: Windows Forms
     
 - name: Software Design and Engineering
-  descr: "The Original GUBR was a command line program designed to filter data that represents inventory items.  This is a revision of that program that gives it a Window Forms GUI using CLI/C++ .NET Framework.  This transisitton isn't necessarily remarkable, but it fascilites the merger of the data structure from the oringinal GUBR with the GUBR2."
+  descr: "The Original GUBR was a command line program designed to filter data that represents inventory items.  This is a revision of that program that gives it a Window Forms GUI using CLI/C++ .NET Framework.  This transformation isn't necessarily remarkable, but it facilitates the merger of the data structure from the original GUBR with the GUBR2."
   demo: https://github.com/bedspirit/Gubr_Project1
   tags:
     - tag: C++
@@ -41,7 +41,7 @@
     - tag: Windows Forms
 
 - name: Database
-  descr: "This project represents a fresh step forward for the GUBR.  The GUBR and GUBR2 read files created by a mainframe.  This version of the GUBR is able to retrieve data from a database eliminating the need to run a mainframe job.  This project displays the convience of utilizing SQL queries for data collection."
+  descr: "This project represents a fresh step forward for the GUBR.  The GUBR and GUBR2 read files created by a mainframe.  This version of the GUBR is able to retrieve data from a database eliminating the need to run a mainframe job.  This project displays the convenience of utilizing SQL queries for data collection."
   demo: https://github.com/bedspirit/Gubr_Project3
   tags:
     - tag: C++
